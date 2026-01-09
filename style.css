@@ -32,3 +32,56 @@ nav .menu a{
     
 }
 
+
+/*banner Section*/
+
+.banner {
+    width: 100%;
+    background-image: url(./Images/hero-bg.png);
+    height: 674px;
+       
+}
+
+.radesign {
+    background-color: red;
+    margin: 115px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.early {
+    position: relative;
+}
+.circle {
+    position: absolute;
+    height: 16px;
+    width: 16px;
+    background-color: #469165;
+    border-radius: 50%;
+    opacity: 40%;
+    transform: translate(-50%, -50%);
+}
+
+.c3 {    
+    height: 6px;
+    width: 6px;
+    border-radius: 50%;
+    opacity: 20%;
+    
+}
+
+.c2 {    
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    opacity: 20%;
+    
+}
+.c1 {
+    
+    height: 6px;
+    width: 6px;
+    border-radius: 50%;
+}
