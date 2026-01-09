@@ -42,17 +42,21 @@ nav .menu a{
        
 }
 
-.radesign {
-    background-color: red;
-    margin: 115px;
+.radesign {    
+    width: 14.3125%;
+    padding-top: 115px;
+    margin: auto;
     display: flex;
     align-items: center;
     justify-content: center;
+    /* gap: 6px; */
     
 }
 
 .early {
+    /* background-color: red; */
     position: relative;
+    
 }
 .circle {
     position: absolute;
